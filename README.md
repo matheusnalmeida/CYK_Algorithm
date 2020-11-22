@@ -9,5 +9,5 @@
 # Arquivo de leitura arquivo.txt 
 ### Tem que esta na <strong> forma normal de chomsky </strong>, como no exemplo abaixo !
 ##### Obs: Utilizar exatamente nesse formato!
-##### Forma normal de chomsky Y -> AB ou Y -> a.
+##### Forma normal de chomsky Y => AB ou Y => a.
 <p> S => XB | AB <br/> X => AS <br/> A => a <br/> B => b  </p>
